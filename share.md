@@ -27,3 +27,11 @@
 2. 读屏的一些设置。
 
 3. 常规操作手势。
+
+## 六、参考资料
+
+争渡读屏软件（PC）：开始菜单-->程序-->争渡读屏软件-->查看使用说明
+
+VoiceOver（iOS）：[VoiceOver使用之不完全攻略](http://sky808.com/voiceover/vo.html)
+
+Talkback（Android）：[中国盲人安卓爱好者网站](http://apk.qt06.com)
